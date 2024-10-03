@@ -1,1 +1,1 @@
-# CryptoScan
+# CryptoJava2
